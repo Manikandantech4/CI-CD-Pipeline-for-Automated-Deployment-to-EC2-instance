@@ -3,7 +3,7 @@ Implemented an automated CI/CD workflow using AWS CodePipeline and SSM to build 
 
 Goals:
 1. Create an EC2 instance and make it as web server.
-2. Set up codedpipeline by connecting with github repository.
+2. Set up codepipeline by connecting with github repository.
 3. Add SSM permission to codepipeline.
 4. Deploy the pipeline.
 
